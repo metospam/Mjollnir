@@ -1,0 +1,11 @@
+name: Mjollnir
+version: '${project.version}'
+main: mc.mem.ru.mjollnir.Mjollnir
+api-version: 1.18
+authors: [ metospam ]
+commands:
+  mjollnir:
+    usage: /<command>
+    aliases:
+      - mj
+
