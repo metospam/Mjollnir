@@ -1,11 +1,11 @@
 name: Mjollnir
 version: '${project.version}'
-main: mc.mem.ru.mjollnir.Mjollnir
+main: mc.mem.ru.mjollnir.Main
 api-version: 1.18
 authors: [ metospam ]
 commands:
   mjollnir:
-    usage: /<command>
+    usage: /mjollnir
     aliases:
       - mj
 
